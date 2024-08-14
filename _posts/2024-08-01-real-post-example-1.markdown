@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fighting Ursa Luring Targets With Car for Sale"
+title:  "Real Post Example - Fighting Ursa Luring Targets With Car for Sale"
 date:   2024-08-01 09:00:00 +0100
 categories: test1
 ---
