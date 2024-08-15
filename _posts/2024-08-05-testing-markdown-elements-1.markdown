@@ -1527,4 +1527,6 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 <h2>Now for the intel</h2>
 
-1.1.1.1 hosts 
+fakedomain.com resolves to 1.1.1.1.
+
+fakedomain.com has been known to distribute revil malware sent in  email attachments from the email address fakedomain@email.com
