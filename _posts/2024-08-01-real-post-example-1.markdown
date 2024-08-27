@@ -3,6 +3,7 @@ layout: post
 title:  "Real Post Example - Fighting Ursa Luring Targets With Car for Sale"
 date:   2024-08-01 09:00:00 +0100
 categories: test1
+excerpt: A Russian threat actor we track as Fighting Ursa.
 ---
 
 Source: https://unit42.paloaltonetworks.com/fighting-ursa-car-for-sale-phishing-lure/

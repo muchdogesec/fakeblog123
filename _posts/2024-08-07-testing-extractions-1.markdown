@@ -3,6 +3,7 @@ layout: post
 title:  "Testing Extractions"
 date:   2024-08-07 09:00:00 +0100
 categories: test3
+excerpt: This is just a simple list of IoCs that test extraction logic.
 ---
 
 This is just a simple list of IoCs that test extraction logic...

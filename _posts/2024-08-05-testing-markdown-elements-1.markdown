@@ -3,6 +3,7 @@ layout: post
 title:  "Testing Markdown Elements"
 date:   2024-08-05 09:00:00 +0100
 categories: test2
+excerpt: Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document.
 ---
 
 <h2>Overview</h2>
