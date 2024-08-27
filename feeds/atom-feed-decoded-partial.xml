@@ -8,7 +8,7 @@ layout: none
 	<updated>2024-08-27T10:17:18+01:00</updated>
 	<id>{{ site.url }}/feed.xml</id>
 	<title type="html">{{ site.title | xml_escape }}</title>
-	<subtitle>{{ site.description | xml_escape }}</subtitle>
+	<subtitle>ATOM -- Contains decoded html (without CDATA tags, but it XML escaped) -- PARTIAL CONTENT ONLY</subtitle>
 	<author>
 	    <name>David G</name>
 	</author>
