@@ -16,7 +16,7 @@ Add more content to it over time to see how updates happen in the feed.
 
 And here's a bit more content in the article just to make sure.
 
-Hope you enjoy it. Add your content below.
+Hope you enjoy it. In this line I deleted something.
 
 Now for my first ever update test, wish me luck.
 
