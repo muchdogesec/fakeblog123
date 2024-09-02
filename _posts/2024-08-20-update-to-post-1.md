@@ -18,4 +18,6 @@ And here's a bit more content in the article just to make sure.
 
 Hope you enjoy it. Add your content below.
 
-NOW FOR MY FIRST EVER UPDATE TEST -- WISH ME LUCK !!!!
+Now for my first ever update test, wish me luck.
+
+Will it work?
