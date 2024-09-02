@@ -6,6 +6,10 @@ categories: test3
 excerpt: Mainly the patch endpoint on h4f
 ---
 
-UPDATE 1
+This is just a normal post with an ip address 1.1.1.1
 
-UPDATE 2
+And a domain google.com
+
+Add more content to it over time
+
+To see how updates happen.
