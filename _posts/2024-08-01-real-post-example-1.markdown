@@ -30,7 +30,7 @@ The [URL kicking off this infection chain](https://www.virustotal.com/gui/url/77
 
 In this case, Fighting Ursa abused Webhook.site to craft a URL that returned [a malicious HTML page](https://www.virustotal.com/gui/file/cda936ecae566ab871e5c0303d8ff98796b1e3661885afd9d4690fc1e945640e). Figure 1 below shows the HTML returned from the webhook.site URL. 
 
-![](/images/2024-08-01/0_image_0.png)
+![](/fakeblog123/images/2024-08-01/0_image_0.png)
 
 Figure 1. HTML code used in the attack hosted on the Webhook.site service. 
 
@@ -40,7 +40,7 @@ Figure 2 below shows [the decoy image](https://www.virustotal.com/gui/file/7c85f
  
 The image provides different views of the vehicle.The image also contains contact details that are likely fake, as well as a phone number based in Romania.Finally, the image also lists the point of contact as the Southeast European Law Enforcement Center, possibly to lend this fake advertisement more credibility. 
 
-![](/images/2024-08-01/0_image_1.png)
+![](/fakeblog123/images/2024-08-01/0_image_1.png)
 
 Figure 2. Diplomatic car for sale lure hosted on ImgBB. 
 
@@ -63,13 +63,13 @@ The file named `IMG-387470302099.jpg.exe` is a copy of the legitimate Windows ca
 
 HeadLace is modular malware that executes in stages.This stage-based loading is probably designed to prevent detection and minimize the malware's exposure to analysts.The DLL file contains a function shown below in Figure 3. 
 
-![](/images/2024-08-01/0_image_2.png)
+![](/fakeblog123/images/2024-08-01/0_image_2.png)
 
 Figure 3. Code in `WindowsCodecs.dll` file to run a file named `zqtxmo.bat`. 
 
 This function is solely meant to execute the last file within the ZIP archive, `zqtxmo.bat`. Figure 4 below shows the content of `zqtxmo.bat`. 
 
-![](/images/2024-08-01/0_image_3.png)
+![](/fakeblog123/images/2024-08-01/0_image_3.png)
 
 Figure 4. Contents of the `zqtxmo.bat` batch file. This batch file starts a process for Microsoft Edge (`start msedge`) to run content passed as Base64-encoded text.As shown above in Figure 4, the decoded text is a hidden iframe that retrieves content from [a different Webhook.site URL](https://www.virustotal.com/gui/url/844ac27e672a1fc6840a29b3c8443004b06469905b82dbbcf56dd5b53fea9484) .
 
