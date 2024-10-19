@@ -6,6 +6,8 @@ categories: test1
 excerpt: Also useful for Obstracts testing
 ---
 
+![](/fakeblog123/images/2024-09-01/example-4.jpg)
+
 fakedomain.com resolves to 1.1.1.1.
 
 fakedomain.com has been known to distribute revil malware sent in  email attachments from the email address fakedomain@email.com
